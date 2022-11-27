@@ -1,0 +1,8 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\CRUDApp\bin\Debug\CRUDApp.exe.config
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\CRUDApp\bin\Debug\CRUDApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\CRUDApp\bin\Debug\CRUDApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\CRUDApp\obj\Debug\CRUDApp.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\CRUDApp\obj\Debug\CRUDApp.csproj.SuggestedBindingRedirects.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\CRUDApp\obj\Debug\CRUDApp.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\CRUDApp\obj\Debug\CRUDApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\CRUDApp\obj\Debug\CRUDApp.pdb

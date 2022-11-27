@@ -1,0 +1,8 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\DataSetApp\bin\Debug\DataSetApp.exe.config
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\DataSetApp\bin\Debug\DataSetApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\DataSetApp\bin\Debug\DataSetApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\DataSetApp\obj\Debug\DataSetApp.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\DataSetApp\obj\Debug\DataSetApp.csproj.SuggestedBindingRedirects.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\DataSetApp\obj\Debug\DataSetApp.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\DataSetApp\obj\Debug\DataSetApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\DataSetApp\obj\Debug\DataSetApp.pdb

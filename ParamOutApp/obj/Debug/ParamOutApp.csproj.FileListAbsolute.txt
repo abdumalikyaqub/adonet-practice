@@ -1,0 +1,8 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ParamOutApp\bin\Debug\ParamOutApp.exe.config
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ParamOutApp\bin\Debug\ParamOutApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ParamOutApp\bin\Debug\ParamOutApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ParamOutApp\obj\Debug\ParamOutApp.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ParamOutApp\obj\Debug\ParamOutApp.csproj.SuggestedBindingRedirects.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ParamOutApp\obj\Debug\ParamOutApp.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ParamOutApp\obj\Debug\ParamOutApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ParamOutApp\obj\Debug\ParamOutApp.pdb

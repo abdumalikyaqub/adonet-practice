@@ -1,0 +1,8 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ScalarApp\bin\Debug\ScalarApp.exe.config
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ScalarApp\bin\Debug\ScalarApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ScalarApp\bin\Debug\ScalarApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ScalarApp\obj\Debug\ScalarApp.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ScalarApp\obj\Debug\ScalarApp.csproj.SuggestedBindingRedirects.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ScalarApp\obj\Debug\ScalarApp.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ScalarApp\obj\Debug\ScalarApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\ScalarApp\obj\Debug\ScalarApp.pdb

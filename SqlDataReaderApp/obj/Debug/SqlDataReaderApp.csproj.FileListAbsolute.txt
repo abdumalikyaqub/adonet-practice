@@ -1,0 +1,8 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\SqlDataReaderApp\bin\Debug\SqlDataReaderApp.exe.config
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\SqlDataReaderApp\bin\Debug\SqlDataReaderApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\SqlDataReaderApp\bin\Debug\SqlDataReaderApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\SqlDataReaderApp\obj\Debug\SqlDataReaderApp.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\SqlDataReaderApp\obj\Debug\SqlDataReaderApp.csproj.SuggestedBindingRedirects.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\SqlDataReaderApp\obj\Debug\SqlDataReaderApp.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\SqlDataReaderApp\obj\Debug\SqlDataReaderApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ADO\AdoSqlServerSolution\SqlDataReaderApp\obj\Debug\SqlDataReaderApp.pdb
